@@ -81,15 +81,13 @@ export function MainPage() {
               Real World Ethereum Event
             </h3>
             <p className="text-gray-600">
-              We&apos;re hosting a small friends event in San Francisco in
-              January. Please{" "}
-              <a
-                className="text-blue-500 underline"
-                href="mailto:rweth@daimo.xyz"
-              >
-                reach out
-              </a>{" "}
-              if you are interested in joining.
+              We&apos;re hosting a small event in San Francisco in
+              January. <a
+              className="text-blue-500 underline"
+              href="./event"
+            >
+              Learn more
+            </a>.
             </p>
           </div>
         </div>
